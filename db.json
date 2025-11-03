@@ -1,0 +1,33 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "nameProduct": "Galaxy Y",
+      "importDate": "",
+      "quantity": 4,
+      "categoryId": 1
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "nameCategory": "Samsung"
+    },
+    {
+      "id": 2,
+      "nameCategory": "Oppo"
+    },
+    {
+      "id": 3,
+      "nameCategory": "Iphone"
+    },
+    {
+      "id": 4,
+      "nameCategory": "Huawei"
+    },
+    {
+      "id": 5,
+      "nameCategory": "Nokia"
+    }
+  ]
+}
