@@ -18,7 +18,7 @@ export default function ListProduct() {
 
   return (
     <>
-      <h1>Danh sách product</h1>
+      <h1>Danh sách product hehe</h1>
       <table className="table">
         <thead>
           <tr>
